@@ -1,0 +1,250 @@
+	signal: -56.00 dBm
+	SSID: D2
+	signal: -43.00 dBm
+	SSID: ISILAB_2G
+	signal: -55.00 dBm
+	SSID: Welcome_KAIST
+	signal: -42.00 dBm
+	SSID: Welcome_ISILAB
+	signal: -58.00 dBm
+	SSID: iDBLab-DLink2.4
+	signal: -60.00 dBm
+	SSID: CDSNLab
+	signal: -71.00 dBm
+	SSID: HCIL guest
+	signal: -48.00 dBm
+	SSID: KECI Lab
+	signal: -47.00 dBm
+	SSID: Askai_HomeNet
+	signal: -82.00 dBm
+	SSID: pllab
+	signal: -59.00 dBm
+	SSID: SPENCERTESTING
+	signal: -67.00 dBm
+	SSID: Welcome_KAIST
+	signal: -65.00 dBm
+	SSID: cnlab
+	signal: -77.00 dBm
+	SSID: TP-LINK_C773_5G
+	signal: -55.00 dBm
+	SSID: Welcome_KAIST
+	signal: -78.00 dBm
+	SSID: Welcome_KAIST
+	signal: -77.00 dBm
+	SSID: Welcome_KAIST
+	signal: -88.00 dBm
+	SSID: ZOYI-DLink
+	signal: -83.00 dBm
+	SSID: Welcome_KAIST
+	signal: -87.00 dBm
+	SSID: Janggwan-RESL_5G
+	signal: -52.00 dBm
+	SSID: ISILAB_5G
+	signal: -74.00 dBm
+	SSID: HCIL guest
+	signal: -74.00 dBm
+	SSID: HCIL
+-------------------------
+	signal: -44.00 dBm
+	SSID: D2
+	signal: -44.00 dBm
+	SSID: ISILAB_2G
+	signal: -53.00 dBm
+	SSID: Welcome_KAIST
+	signal: -44.00 dBm
+	SSID: Welcome_ISILAB
+	signal: -72.00 dBm
+	SSID: HCIL-IPTIME
+	signal: -53.00 dBm
+	SSID: CDSNLab
+	signal: -63.00 dBm
+	SSID: HCIL guest
+	signal: -64.00 dBm
+	SSID: HCIL
+	signal: -72.00 dBm
+	SSID: Welcome_KAIST
+	signal: -72.00 dBm
+	SSID: bhshinRpiAp4
+	signal: -47.00 dBm
+	SSID: KECI Lab
+	signal: -52.00 dBm
+	SSID: Askai_HomeNet
+	signal: -61.00 dBm
+	SSID: JiheeNetwork
+	signal: -67.00 dBm
+	SSID: SPENCERTESTING
+	signal: -74.00 dBm
+	SSID: bhshinRpiAdhoc
+	signal: -71.00 dBm
+	SSID: cnlab
+	signal: -66.00 dBm
+	SSID: Welcome_KAIST
+	signal: -77.00 dBm
+	SSID: WCSL 5GHz
+	signal: -79.00 dBm
+	SSID: TP-LINK_C773_5G
+	signal: -53.00 dBm
+	SSID: Welcome_KAIST
+	signal: -69.00 dBm
+	SSID: 
+	signal: -79.00 dBm
+	SSID: Welcome_KAIST
+	signal: -75.00 dBm
+	SSID: Welcome_KAIST
+	signal: -80.00 dBm
+	SSID: NMSL_N1_721
+	signal: -87.00 dBm
+	SSID: ZOYI-DLink
+	signal: -84.00 dBm
+	SSID: Welcome_KAIST
+	signal: -88.00 dBm
+	SSID: Janggwan-RESL_5G
+	signal: -50.00 dBm
+	SSID: ISILAB_5G
+	signal: -71.00 dBm
+	SSID: HCIL guest
+	signal: -71.00 dBm
+	SSID: HCIL
+-------------------------
+	signal: -47.00 dBm
+	SSID: D2
+	signal: -43.00 dBm
+	SSID: ISILAB_2G
+	signal: -54.00 dBm
+	SSID: Welcome_KAIST
+	signal: -44.00 dBm
+	SSID: Welcome_ISILAB
+	signal: -69.00 dBm
+	SSID: HCIL-IPTIME
+	signal: -53.00 dBm
+	SSID: CDSNLab
+	signal: -63.00 dBm
+	SSID: HCIL guest
+	signal: -64.00 dBm
+	SSID: HCIL
+	signal: -71.00 dBm
+	SSID: Welcome_KAIST
+	signal: -72.00 dBm
+	SSID: bhshinRpiAp4
+	signal: -48.00 dBm
+	SSID: KECI Lab
+	signal: -55.00 dBm
+	SSID: Askai_HomeNet
+	signal: -61.00 dBm
+	SSID: JiheeNetwork
+	signal: -67.00 dBm
+	SSID: SPENCERTESTING
+	signal: -74.00 dBm
+	SSID: bhshinRpiAdhoc
+	signal: -71.00 dBm
+	SSID: cnlab
+	signal: -65.00 dBm
+	SSID: Welcome_KAIST
+	signal: -79.00 dBm
+	SSID: WCSL 5GHz
+	signal: -78.00 dBm
+	SSID: TP-LINK_C773_5G
+	signal: -53.00 dBm
+	SSID: Welcome_KAIST
+	signal: -69.00 dBm
+	SSID: 
+	signal: -79.00 dBm
+	SSID: Welcome_KAIST
+	signal: -75.00 dBm
+	SSID: Welcome_KAIST
+	signal: -81.00 dBm
+	SSID: NMSL_N1_721
+	signal: -87.00 dBm
+	SSID: ZOYI-DLink
+	signal: -85.00 dBm
+	SSID: Welcome_KAIST
+	signal: -87.00 dBm
+	SSID: Janggwan-RESL_5G
+	signal: -50.00 dBm
+	SSID: ISILAB_5G
+	signal: -71.00 dBm
+	SSID: HCIL guest
+	signal: -71.00 dBm
+	SSID: HCIL
+	signal: -76.00 dBm
+	SSID: WCSL 2.4GHz
+	signal: -76.00 dBm
+	SSID: CAISLAB
+	signal: -53.00 dBm
+	SSID: TP-LINK_C773
+	signal: -65.00 dBm
+	SSID: Welcome_KAIST
+-------------------------
+	signal: -45.00 dBm
+	SSID: D2
+	signal: -44.00 dBm
+	SSID: ISILAB_2G
+	signal: -53.00 dBm
+	SSID: Welcome_KAIST
+	signal: -44.00 dBm
+	SSID: Welcome_ISILAB
+	signal: -70.00 dBm
+	SSID: HCIL-IPTIME
+	signal: -56.00 dBm
+	SSID: CDSNLab
+	signal: -63.00 dBm
+	SSID: HCIL guest
+	signal: -72.00 dBm
+	SSID: HCIL
+	signal: -71.00 dBm
+	SSID: Welcome_KAIST
+	signal: -72.00 dBm
+	SSID: bhshinRpiAp4
+	signal: -48.00 dBm
+	SSID: KECI Lab
+	signal: -52.00 dBm
+	SSID: Askai_HomeNet
+	signal: -61.00 dBm
+	SSID: JiheeNetwork
+	signal: -62.00 dBm
+	SSID: SPENCERTESTING
+	signal: -74.00 dBm
+	SSID: bhshinRpiAdhoc
+	signal: -67.00 dBm
+	SSID: cnlab
+	signal: -65.00 dBm
+	SSID: Welcome_KAIST
+	signal: -79.00 dBm
+	SSID: WCSL 5GHz
+	signal: -80.00 dBm
+	SSID: TP-LINK_C773_5G
+	signal: -53.00 dBm
+	SSID: Welcome_KAIST
+	signal: -69.00 dBm
+	SSID: 
+	signal: -79.00 dBm
+	SSID: Welcome_KAIST
+	signal: -75.00 dBm
+	SSID: Welcome_KAIST
+	signal: -78.00 dBm
+	SSID: NMSL_N1_721
+	signal: -87.00 dBm
+	SSID: ZOYI-DLink
+	signal: -84.00 dBm
+	SSID: Welcome_KAIST
+	signal: -87.00 dBm
+	SSID: Janggwan-RESL_5G
+	signal: -51.00 dBm
+	SSID: ISILAB_5G
+	signal: -72.00 dBm
+	SSID: HCIL guest
+	signal: -72.00 dBm
+	SSID: HCIL
+	signal: -74.00 dBm
+	SSID: WCSL 2.4GHz
+	signal: -76.00 dBm
+	SSID: CAISLAB
+	signal: -58.00 dBm
+	SSID: TP-LINK_C773
+	signal: -65.00 dBm
+	SSID: Welcome_KAIST
+	signal: -76.00 dBm
+	SSID: Welcome_KAIST
+	signal: -63.00 dBm
+	SSID: NMSL_2.4G
+-------------------------

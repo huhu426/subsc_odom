@@ -1,0 +1,8 @@
+prefix=/home/isilab/Desktop/ssid_folder/catkin_ws/install
+
+Name: subsc_tf
+Description: Description of subsc_tf
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/isilab/Desktop/ssid_folder/catkin_ws/install/lib 
+Requires: 
